@@ -1,0 +1,14 @@
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net9.0\FactoryDesignPattern.exe
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net9.0\FactoryDesignPattern.deps.json
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net9.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net9.0\FactoryDesignPattern.dll
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\net9.0\FactoryDesignPattern.pdb
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.dll
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\refint\FactoryDesignPattern.dll
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.pdb
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\FactoryDesignPattern.genruntimeconfig.cache
+C:\Users\Exaze Trsa25\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\net9.0\ref\FactoryDesignPattern.dll
